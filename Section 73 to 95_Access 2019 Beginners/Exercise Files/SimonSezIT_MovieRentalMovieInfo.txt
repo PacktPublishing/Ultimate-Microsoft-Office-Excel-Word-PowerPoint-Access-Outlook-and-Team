@@ -1,0 +1,452 @@
+Movie Rental Database Information
+ 
+1 Title: The Shawshank Redemption
+Director: Frank Darabont
+Year of release: 1994
+Runtime: 142 mins
+Genre: Crime, Drama
+Actor: Tim Robbins ... Andy Dufresne
+Actor: Morgan Freeman ... Ellis Boyd 'Red' Redding  
+
+2 Title: The Godfather
+Director: Francis Ford Coppola
+Year of release: 1972
+Runtime: 175 mins
+Genre: Crime, Drama
+Actor: Marlon Brando … Don Vito Corleone
+Actor: Al Pacino … Michael Corleone
+Actor: James Caan … Sonny Corleone
+
+3 Title: Schindler’s List
+Director: Steven Spielberg
+Year of release: 1993
+Runtime: 195 mins
+Genre: Drama, Biopic, History
+Actor: Liam Neeson … Oskar Schindler
+Actor: Ben Kingsley … Itzhak Stern
+Actor: Ralph Fiennes … Amon Goeth
+
+4 Title: 12 Angry Men
+Director: Sidney Lumet
+Year of release: 1957
+Runtime: 96 mins
+Genre: Crime, Drama
+Actor: Lee J Cobb … Juror 3
+Actor: Henry Fonda … Juror 8
+Actor: Ed Begley … Juror 10
+
+5 Title: The Lord of the Rings: The Return of the King
+Director: Peter Jackson
+Year of release: 2003
+Runtime: 201 mins
+Genre: Adventure, Drama, Fantasy
+Actor: Elijah Wood … Frodo
+Actor: Liv Tyler … Arwen
+Actor: Andy Serkis … Gollum/Smeagol
+Actor: Viggo Mortensen … Aragorn
+Actor: Cate Blanchett … Galadriel
+
+6 Title: One Flew Over the Cuckoo’s Nest
+Director: Milos Forman
+Year of release: 1975
+Runtime: 133 mins
+Genre: Drama
+Actor: Jack Nicholson … R. P. Murphy
+Actor: Louise Fletcher … Nurse Ratched
+Actor: Christopher Lloyd … Taber
+
+7 Title: The Matrix
+Director: The Wachowski Brothers (Lana and Lilly Wachowski)
+Year of release: 1999
+Runtime: 136 mins
+Genre: Action, Sci-Fi
+Actor: Keanu Reeves … Neo
+Actor: Laurence Fishburne … Morpheus
+Actor: Carrie-Anne Moss … Trinity
+
+8 Title: Star Wars: Episode IV – A New Hope
+Director: George Lucas
+Year of release: 1977
+Runtime: 121 mins
+Genre: Action Adventure, Sci-Fi, Fantasy
+Actor: Mark Hamill … Luke Skywalker
+Actor: Harrison Ford … Han Solo
+Actor: Carrie Fisher … Princess Leia Organa
+
+9 Title: The Silence of the Lambs
+Director: Jonathan Demme
+Year of release: 1991
+Runtime: 118 mins
+Genre: Crime, Drama, Thriller
+Actor: Jodie Foster … Clarice Starling
+Actor: Anthony Hopkins … Dr. Hannibal Lecter
+Actor: Scott Glenn … Jack Crawford
+
+10 Title: It’s a Wonderful Life
+Director: Frank Capra
+Year of release: 1946
+Runtime: 130 mins
+Genre: Drama, Family, Fantasy
+Actor: James Stewart … George Bailey
+Actor: Donna Reed … Mary Hatch
+Actor: Lionel Barrymore … Mr. Potter
+
+11 Title: Saving Private Ryan
+Director: Steven Spielberg
+Year of release: 1998
+Runtime: 169 mins
+Genre: Action, Drama, War
+Actor: Tom Hanks … Captain Miller
+Actor: Matt Damon … Private Ryan
+Actor: Ted Danson … Captain Hamill
+
+12 Title: Interstellar
+Director: Christopher Nolan
+Year of release:  2014
+Runtime: 169 mins
+Genre: Adventure, Sci-Fi, Drama
+Actor: Matthew McConaughey … Cooper
+Actor: Ellen Burstyn … Murph
+Actor: Matt Damon … Mann
+
+13 Title: Casablanca
+Director: Michael Curtiz
+Year of release: 1942
+Runtime: 102 mins
+Genre: Drama, Romance, War
+Actor: Humphrey Bogart … Rick Blaine
+Actor: Ingrid Bergman … Ilsa Lund
+Actor: Paul Henreid … Victor Laszlo
+
+14 Title: Raiders of the Lost Ark
+Director: Steven Spielberg
+Year of release: 1981
+Runtime: 115 mins
+Genre: Action, Adventure
+Actor: Harrison Ford … Indy
+Actor: Karen Allen … Marion Ravenwood
+Actor: Paul Freeman … Dr. Rene Belloq
+
+15 Title: Rear Window
+Director: Alfred Hitchcock
+Year of release: 1954
+Runtime: 112 mins
+Genre: Thriller, Drama, Mystery
+Actor: James Stewart … L. B. ‘Jeff’ Jefferies
+Actor: Grace Kelly … Lisa Carol Fremont
+Actor: Thelma Ritter … Stella
+
+16 Title: The Green Mile
+Director: Frank Darabont
+Year of release: 1999
+Runtime: 189 mins
+Genre: Crime, Drama
+Actor: Tom Hanks … Paul Edgecomb
+Actor: Michael Clarke Duncan … John Coffey
+Actor: James Cromwell … Warden Hal Moores
+
+17 Title: Terminator 2: Judgment Day
+Director: James Cameron
+Year of release: 1991
+Runtime: 137 mins
+Genre: Action, Sci-Fi
+Actor: Arnold Schwarzenegger … The Terminator
+Actor: Linda Hamilton … Sarah Connor
+Actor: Robert Patrick … T-1000
+
+18 Title: Back to the Future
+Director: Robert Zemeckis
+Year of release: 1985
+Runtime: 116 mins
+Genre: Action, Comedy, Sci-Fi
+Actor: Michael J. Fox … Marty McFly
+Actor: Christopher Lloyd … Dr. Emmett Brown
+Actor: Lea Thompson … Lorraine Baines
+
+19 Title: The Lion King
+Director: Roger Allers, Rob Minkoff
+Year of release: 1994
+Runtime: 89 mins
+Genre: Animation, Adventure, Drama, Family
+Actor: Matthew Broderick … Adult Simba (voice)
+Actor: James Earl Jones … Mufasa (voice)
+Actor: Jeremy Irons … Scar (voice)
+
+20 Title: North By Northwest
+Director: Alfred Hitchcock
+Year of release: 1959
+Runtime: 136 mins
+Genre: Adventure, Comedy, Crime
+Actor: Cary Grant … Roger O Thornhill
+Actor: Eva Marie Saint … Eve Kendall
+Actor: James Mason … Phillip Vandamm
+
+21 Title: Toy Story 3
+Director: Lee Unkrich
+Year of release: 2010
+Runtime: 103 mins
+Genre: Animation, Adventure, Comedy, Family
+Actor: Tom Hanks … Woody (voice)
+Actor: Tim Allen … Buzz Lightyear (voice)
+Actor: Joan Cusack … Jessie (voice)
+
+22 Title: Indiana Jones and the Last Crusade
+Director: Steven Spielberg
+Year of release: 1989
+Runtime: 127 mins
+Genre: Action, Adventure, Fantasy
+Actor: Harrison Ford … Indiana Jones
+Actor: Sean Connery … Professor Henry Jones
+Actor: Alison Doody … Elsa
+
+23 Title: Batman Begins
+Director: Christopher Nolan
+Year of release: 2005
+Runtime: 140 mins
+Genre: Action, Adventure, Fantasy
+Actor: Christian Bale … Bruce Wayne/Batman
+Actor: Liam Neeson … Ducard
+Actor: Katie Holmes … Rachel Dawes
+
+24 Title: Die Hard
+Director: John McTiernan
+Year of release: 1988
+Runtime: 131 mins
+Genre: Action, Thriller
+Actor: Bruce Willis … Officer John McClane
+Actor: Bonnie Bedelia … Holly Gennaro McClane
+Actor: Alan Rickman … Hans Gruber
+
+25 Title: Blade Runner
+Director: Ridley Scott
+Year of release: 1982
+Runtime: 117 mins
+Genre: Action, Sci-Fi, Thriller
+Actor: Harrison Ford … Rick Deckard
+Actor: Rutger Hauer … Roy Batty
+Actor: Sean Young … Rachael
+
+26 Title: A Beautiful Mind
+Director: Ron Howard
+Year of release: 2001
+Runtime: 135 mins
+Genre: Drama, Biopic
+Actor: Russell Crowe … John Nash
+Actor: Ed Harris … Parcher
+Actor: Jennifer Connelly … Alicia Nash
+
+27 Title: How to Train Your Dragon
+Director: Dean DeBlois, Chris Sanders
+Year of release: 2010
+Runtime: 98 mins
+Genre: Animation, Adventure, Family
+Actor: Jay Baruchel … Hiccup (voice)
+Actor: Gerard Butler … Stoick (voice)
+Actor: America Ferrera … Astrid (voice)
+
+28 Title: Finding Nemo
+Director: Andrew Stanton, Lee Unkrich
+Year of release: 2003
+Runtime: 100 mins
+Genre: Animation, Adventure, Comedy, Family
+Actor: Albert Brooks … Marlin (voice)
+Actor: Ellen DeGeneres … Dory (voice)
+Actor: Alexander Gould … Nemo (voice)
+
+29 Title: The Revenant
+Director: Alejandro G. Iñárritu
+Year of release: 2015
+Runtime: 156 mins
+Genre: Adventure, Drama, Thriller
+Actor: Leonardo DiCaprio … Hugh Glass
+Actor: Tom Hardy … John Fitzgerald
+Actor: Domhnall Gleeson … Captain Andrew Henry
+
+30 Title: Shutter Island
+Director: Martin Scorsese
+Year of release: 2010
+Runtime: 138 mins
+Genre: Thriller, Mystery
+Actor: Leonardo DiCaprio … Teddy Daniels
+Actor: Mark Ruffalo …Chuck Aule
+Actor: Ben Kingsley …Dr. Cawley
+
+31 Title: 12 Years a Slave
+Director: Steve McQueen
+Year of release: 2013
+Runtime: 134 mins
+Genre: Biopic, Drama, History
+Actor: Chiwetel Ejiofor … Solomon Northup
+Actor: Michael Fassbender … Edwin Epps
+Actor: Brad Pitt … Bass
+
+32 Title: Jurassic Park
+Director: Steven Spielberg
+Year of release: 1993
+Runtime: 127 mins
+Genre: Action, Adventure, Fantasy
+Actor: Sam Neill … Dr. Alan Grant
+Actor: Laura Dern … Dr. Ellie Sattler
+Actor: Jeff Goldblum … Dr. Ian Malcolm
+
+33 Title: Ocean’s Eleven
+Director: Steven Soderbergh
+Year of release: 2001
+Runtime: 116 mins
+Genre: Thriller, Action
+Actor: George Clooney … Danny Ocean
+Actor: Brad Pitt … Rusty Ryan
+Actor: Matt Damon … Linus Caldwell
+Actor: Julia Roberts … Tess Ocean
+
+34 Title: The Aviator
+Director: Martin Scorsese
+Year of release: 2004
+Runtime: 170 mins
+Genre: Drama, Biopic
+Actor: Leonardo DiCaprio … Howard Hughes
+Actor: Cate Blanchett … Katharine Hepburn
+Actor: Kate Beckinsale … Ava Gardner
+
+35 Title: Troy
+Director: Wolfgang Petersen
+Year of release: 2004
+Runtime: 163 mins
+Genre: Action, Adventure
+Actor: Brad Pitt … Achilles
+Actor: Orlando Bloom … Paris
+Actor: Sean Bean … Odysseus
+
+36 Title: Mr. & Mrs. Smith
+Director: Doug Liman
+Year of release: 2005
+Runtime: 120 mins
+Genre: Action, Comedy, Crime
+Actor: Brad Pitt … John Smith
+Actor: Angelina Jolie … Jane Smith
+
+37 Title: The Da Vinci Code
+Director: Ron Howard
+Year of release: 2006
+Runtime: 149 mins
+Genre: Thriller, Mystery, Action
+Actor: Tom Hanks … Robert Langdon
+Actor: Audrey Tautou … Sophie Neveu
+Actor: Ian McKellen … Sir Leigh Teabing
+
+38 Title: Cowboys & Aliens
+Director: Jon Favreau
+Year of release: 2011
+Runtime: 118 mins
+Genre: Action, Adventure, Sci-Fi
+Actor: Harrison Ford … Colonel Woodrow Dolarhyde
+Actor: Daniel Craig … Jake Lonergan
+Actor: Olivia Wilde … Ella Swenson
+
+39 Title: Air Force One
+Director: Wolfgang Petersen
+Year of release: 1997
+Runtime: 124 mins
+Genre: Action, Adventure, Thriller
+Actor: Harrison Ford … US President James Marshall
+Actor: Gary Oldman … Ivan Korshunov
+Actor: Glenn Close … US Vice President Kathryn Bennett
+
+40 Title: Independence Day
+Director: Roland Emmerich
+Year of release: 1996
+Runtime: 145 mins
+Genre: Action, Adventure, Sci-Fi
+Actor: Bill Pullman … US President Thomas Whitmore
+Actor: Will Smith … Captain Steven Hiller
+Actor: Jeff Goldblum … David Levinson
+
+41 Title: Pretty Woman
+Director: Garry Marshall
+Year of release: 1990
+Runtime: 119 mins
+Genre: Romance, Comedy
+Actor: Richard Gere … Edward Lewis
+Actor: Julia Roberts … Vivian Ward
+Actor: Jason Alexander … Phillip Stuckey
+
+42 Title: Valentine’s Day
+Director: Garry Marshall
+Year of release: 2010
+Runtime: 124 mins
+Genre: Romance, Comedy
+Actor: Julia Roberts … Cpt. Katherine “Kate” Hazeltine
+Actor: Jessica Alba … Morley Clarkson
+Actor: Kathy Bates … Susan Moralez
+
+43 Title: Maleficent
+Director: Robert Stromberg
+Year of release: 2014
+Runtime: 97 mins
+Genre: Fantasy, Mystery
+Actor: Angelina Jolie … Maleficent
+Actor: Elle Fanning … Princess Aurora
+Actor: Sharlto Copley … Stefan
+
+44 Title: Kung Fu Panda
+Director: John Stevenson, Mark Osborne
+Year of release: 2008
+Runtime: 92 mins
+Genre: Animation, Action, Adventure
+Actor: Jack Black … Po
+Actor: Dustin Hoffman … Master Shifu
+Actor: Angelina Jolie … Master Tigress
+
+45 Title: Titanic
+Director: James Cameron
+Year of release: 1997
+Runtime: 194 mins
+Genre: Romance, Drama
+Actor: Leonardo DiCaprio … Jack Dawson
+Actor: Kate Winslet … Rosie DeWitt Bukater
+Actor: Billy Zane … Caledon ‘Cal’ Hockley
+
+46 Title: While You Were Sleeping
+Director: Jon Turteltaub
+Year of release: 1995
+Runtime: 103 mins
+Genre: Romance, Comedy
+Actor: Sandra Bullock … Lucy Eleanor Moderatz/Narrator
+Actor: Bill Pullman … Jack Callaghan
+Actor: Peter Gallagher … Peter Callaghan
+
+47 Title: Speed
+Director: Jan de Bont
+Year of release: 1994
+Runtime: 116 mins
+Genre: Action
+Actor: Keanu Reeves … Jack Traven
+Actor: Sandra Bullock … Annie Porter
+Actor: Dennis Hopper … Howard Payne
+
+48 Title: Miss Congeniality
+Director: Donald Petrie
+Year of release: 2000
+Runtime: 110 mins
+Genre: Action, Comedy
+Actor: Sandra Bullock … Gracie Hart
+Actor: Candice Bergen … Kathy Morningside
+Actor: Michael Caine … Victor Melling
+
+49 Title: Gravity
+Director: Alfonso Cuarón
+Year of release: 2013
+Runtime: 91 mins
+Genre: Sci-Fi
+Actor: Sandra Bullock … Dr. Ryan Stone
+Actor: George Clooney … Lt Matt Kowalski
+Actor: Ed Harris ... Mission Control, Houston (voice)
+
+50 Title: The Monuments Men
+Director: George Clooney
+Year of release: 2014
+Runtime: 118 mins
+Genre: Action, War
+Actor: George Clooney … Lt. Frank Stokes
+Actor: Matt Damon … Lt. James Granger
+Actor: Cate Blanchett … Claire Simone

@@ -1,0 +1,31 @@
+ActorName	GivenNames	FamilyName	Gender	BirthCountry	BornDate	DiedDate
+Harrison Ford	Harrison	Ford	M	USA	7/13/1942	
+Tom Hanks	Tom	Hanks	M	USA	7/9/1956	
+Leonardo DiCaprio	Leonardo	DiCaprio	M	USA	11/11/1974	
+Julia Roberts	Julia	Roberts	F	USA	10/28/1967	
+Angelina Jolie	Angelina	Jolie	F	USA	6/4/1975	
+Sandra Bullock	Sandra	Bullock	F	USA	7/26/1964	
+Tim Robbins	Tim	Robbins	M	USA	10/16/1958	
+Morgan Freeman	Morgan	Freeman	M	USA	6/1/1937	
+Marlon Brando	Marlon	Brando	M	USA	4/3/1924	7/1/2004
+Al Pacino	Al	Pacino	M	USA	4/25/1940	
+James Caan	James	Caan	M	USA	3/26/1940	
+Liam Neeson	Liam	Neeson	M	UK	6/7/1952	
+Ben Kingsley	Ben	Kingsley	M	UK	12/31/1943	
+Ralph Fiennes	Ralph	Fiennes	M	UK	12/22/1962	
+Lee J Cobb	Lee J	Cobb	M	USA	12/8/1911	2/11/1976
+Henry Fonda	Henry	Fonda	M	USA	5/16/1905	8/12/1982
+Ed Begley	Ed	Begley	M	USA	3/25/1901	4/28/1970
+Elijah Wood	Elija	Wood	M	USA	1/28/1981	
+Liv Tyler	Liv	Tyler	F	USA	7/1/1977	
+Andy Serkis	Andy	Serkis	M	UK	4/20/1964	
+Viggo Mortensen	Viggo	Mortensen	M	USA	10/20/1958	
+Cate Blanchett	Cate	Blanchett	F	Australia	5/14/1969	
+Jack Nicholson	Jack	Nicholson	M	USA	4/22/1937	
+Louise Fletcher	Louise	Fletcher	F	USA	7/22/1934	
+Christopher Lloyd	Christopher	Lloyd	M	USA	10/22/1938	
+Keanu Reeves	Keanu	Reeves	M	Lebanon	9/2/1964	
+Laurence Fishburne	Laurence	Fishburne	M	USA	7/30/1961	
+Carrie-Anne Moss	Carrie-Anne	Moss	F	Canada	8/21/1967	
+Mark Hamill	Mark	Hamill	M	USA	9/25/1951	
+Carrie Fisher	Carrie	Fisher	F	USA	10/21/1956	

@@ -1,0 +1,51 @@
+Title	Directors	YearOfRelease	RuntimeMinutes
+The Shawshank Redemption	Frank Darabont	1994	142
+The Godfather	Francis Ford Coppola	1972	175
+Schindler’s List	Steven Spielberg	1993	195
+12 Angry Men	Sidney Lumet	1957	96
+The Lord of the Rings: The Return of the King	Peter Jackson	2003	201
+One Flew Over the Cuckoo’s Nest	Milos Forman	1975	133
+The Matrix	The Wachowski Brothers (Lana and Lilly Wachowski)	1999	136
+Star Wars: Episode IV – A New Hope	George Lucas	1977	121
+The Silence of the Lambs	Jonathan Demme	1991	118
+It’s a Wonderful Life	Frank Capra	1946	130
+Saving Private Ryan	Steven Spielberg	1998	169
+Interstellar	Christopher Nolan	2014	169
+Casablanca	Michael Curtiz	1942	102
+Raiders of the Lost Ark	Steven Spielberg	1981	115
+Rear Window	Alfred Hitchcock	1954	112
+The Green Mile	Frank Darabont	1999	189
+Terminator 2: Judgment Day	James Cameron	1991	137
+Back to the Future	Robert Zemeckis	1985	116
+The Lion King	Roger Allers, Rob Minkoff	1994	89
+North By Northwest	Alfred Hitchcock	1959	136
+Toy Story 3	Lee Unkrich	2010	103
+Indiana Jones and the Last Crusade	Steven Spielberg	1989	127
+Batman Begins	Christopher Nolan	2005	140
+Die Hard	John McTiernan	1988	131
+Blade Runner	Ridley Scott	1982	117			
+A Beautiful Mind	Ron Howard	2001	135
+How to Train Your Dragon	Dean DeBlois, Chris Sanders	2010	98
+Finding Nemo	Andrew Stanton, Lee Unkrich	2003	100
+The Revenant	Alejandro G. Iñárritu 	2015	156
+Shutter Island	Martin Scorsese	2010	138
+12 Years a Slave	Steve McQueen	2013	134
+Jurassic Park	Steven Spielberg	1993	127
+Ocean’s Eleven	Steven Soderbergh	2001	116
+The Aviator	Martin Scorsese	2004	170
+Troy	Wolfgang Petersen	2004	163
+Mr. & Mrs. Smith	Doug Liman	2005	120
+The Da Vinci Code	Ron Howard	2006	149
+Cowboys & Aliens	Jon Favreau	2011	118
+Air Force One	Wolfgang Petersen	1997	124
+Independence Day	Roland Emmerich	1996	145
+Pretty Woman	Garry Marshall	1990	119
+Valentine’s Day	Garry Marshall	2010	124
+Maleficent	Robert Stromberg	2014	97
+Kung Fu Panda	John Stevenson, Mark Osborne	2008	92
+Titanic	James Cameron	1997	194
+While You Were Sleeping	Jon Turteltaub	1995	103
+Speed	Jan de Bont	1994	116
+Miss Congeniality	Donald Petrie	2000	110
+Gravity	Alfonso Cuarón	2013	91
+The Monuments Men	George Clooney	2014	118
